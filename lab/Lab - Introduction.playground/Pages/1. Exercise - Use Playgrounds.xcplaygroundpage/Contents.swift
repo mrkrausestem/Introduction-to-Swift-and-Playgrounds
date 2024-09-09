@@ -12,12 +12,12 @@ print("Where to look for output from my playgrounds when I run them.")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist. (2 points)
  */
-print("Never break the chain")
+print("The chain - fleetwood mac")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song. (3 points)
  */
-
+print("Hello world!")
 
 
 
